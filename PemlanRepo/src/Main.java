@@ -145,8 +145,7 @@ class TodoManager {
     }
 }
 
-class Tugas3M2Bef {
-
+class Main {
     public static void main(String[] args) {
         TodoManager manager = new TodoManager();
 
