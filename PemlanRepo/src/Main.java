@@ -151,7 +151,8 @@ class Main {
 
         Note note1 = new Note("Nugas", "Demo Pemlan");
         Note note2 = new Note("Rapat", "Raval Mingguan");
-        Note note3 = new Note("Double Date", "Di Cafe Batu");
+        Note note3 = new Note("Jalan", "Ke pantai");
+        Note note4 = new Note("Maksi", "Ke Prasmanan");
 
         note1.addDeadline(new Deadline("Senin", 14, "Oktober", 2025));
         note2.addDeadline(new Deadline("Rabu", 10, "Oktober", 2025));
